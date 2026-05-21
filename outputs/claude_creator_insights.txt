@@ -1,0 +1,22 @@
+# TikTok Creator Performance Analysis
+
+## 1. Three Key Insights
+
+**Insight 1: Engagement and Reach Are Inversely Correlated Across Archetypes**
+Friend/Social Content has the highest engagement rate (8.94%) but the lowest average views (2,657), while Food/Lifestyle Content dominates reach (24,500 avg views) with strong but lower engagement (7.37%). This suggests the creator has two distinct audience behaviors: a small, loyal community that interacts deeply with personal content, and a broader passive audience drawn to lifestyle content.
+
+**Insight 2: BookTok Is Over-Indexed and Under-Performing**
+BookTok/Niche Content represents the largest share of posts (85 of 260, ~33%) but delivers the lowest engagement rate (5.94%) and very weak average views (1,097). This indicates significant content effort is going into a category that isn't yielding proportional returns — a clear resource misallocation.
+
+**Insight 3: Niche Categories Outperform Broad Ones in Engagement**
+Specific, identity-driven categories like Museum (9.52%), friends (8.59%), and travel (7.76%) outperform the overall 6.85% average. This signals that audiences respond more strongly to authentic, niche-tagged content than generic trend-driven posts.
+
+## 2. Three Creator Strategy Recommendations
+
+**Recommendation 1: Double Down on Food/Lifestyle as the Growth Engine**
+With ~24.5K average views and 7.37% engagement, this archetype is the proven scale driver. Increase posting cadence here (target 40–50% of content mix) and use it as the top-of-funnel to attract new followers.
+
+**Recommendation 2: Rebalance BookTok Investment**
+Reduce BookTok volume by ~30–40% and test format pivots (e.g., book + lifestyle hybrids, "reading nook" aesthetic videos) to leverage its niche audience without sacrificing posting efficiency. Repurpose freed capacity toward Museum, travel, and friends content.
+
+**Recommendation 3:
