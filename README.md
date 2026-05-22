@@ -2,6 +2,10 @@ Audience Intelligence Measurement & Virality Analytics: Platform (Tiktok)
 
 A social media analytics platform analyzing Tiktok engagements, virality trends, audience behavior, and content performance using data visualization, clustering analysis, and KPI-driven audeince intelligence workflows. 
 
+
+Key Takeaways: 
+
+
 Features
   - Keyword and content clustering
   - Interactive Streamlit dashboard
