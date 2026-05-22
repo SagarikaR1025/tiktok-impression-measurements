@@ -29,7 +29,7 @@ Tech Stack
 - streamlit
 - pandas
 - plotly
-- sci-kit learn
+- scikit-learn
 - NLP & clustering workflows
 - social media analytics pipelines 
 
